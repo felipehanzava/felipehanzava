@@ -1,12 +1,17 @@
 ## Olá!! Eu sou o Felipe Hanzava
 
+- Gosto de One Piece e de séries, gosto de praticar esportes e de viagens
+- Gosto de tecnologia, e estou querendo entrar na área de desenvolvimento e programação.
+
+# Linguagens e Skills
 - Python 
 - Atualmente estou estudando Kotlin e Java
+
+# Contato
 - 📧 - contate-me pelo email: fhanzava@hotmail.com
-- 
+- Linkedin - "https://www.linkedin.com/in/felipe-hanzava-944b77215/">
 
  <div>
-  <a href="https://www.linkedin.com/in/felipe-hanzava-944b77215/">
    ## Skills:
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
